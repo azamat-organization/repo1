@@ -1,0 +1,4 @@
+!/bin/bash
+
+name=Azamat
+echo "Hello, World! My name is $name"
